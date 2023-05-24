@@ -61941,10 +61941,10 @@ P(a){var s=this,r=null,q=A.jq(r,r,r,new A.dj(B.j,r,r,r,r,r,B.ad),r,r,r,r),p=t.nA
 m=m?B.vm:r
 return new A.tR(new A.pE(B.j,new A.c2(r,r,r,r,r,B.i,r,r),new A.Jg(r,r,1/0,56),r),A.Yp(B.eH,A.a([q,new A.Bm(new A.Yd(!0,!0,!0,o,n),r,B.b8,!1,r,r,m,!1,r,8,B.bd,B.F7,r,B.aP,r),new A.hZ(B.vl,r,r,A.aiy(A.a([new A.cx(B.an,A.qR(B.j,A.jq(r,r,r,new A.dj(r,A.qh(r,new A.f9("assets/instagram.jpg",r,r)),r,r,r,r,B.ad),40,r,r,40),!1,new A.a2q(s)),r),new A.cx(B.an,A.qR(B.j,A.jq(r,r,r,new A.dj(r,A.qh(r,new A.f9("assets/facebook.jpg",r,r)),r,r,r,r,B.ad),40,r,r,40),!1,new A.a2r(s)),r),new A.cx(B.an,A.qR(B.j,A.jq(r,r,r,new A.dj(r,A.qh(B.eN,new A.f9("assets/whatsapp.jpg",r,r)),r,r,r,r,B.ad),40,r,r,40),!1,new A.a2s(s)),r),new A.cx(B.an,A.qR(B.j,A.jq(r,r,r,new A.dj(r,A.qh(B.eN,new A.f9("assets/youtube.jpg",r,r)),r,r,r,r,B.ad),40,r,r,40),!1,new A.a2t(s)),r),new A.cx(B.an,A.qR(B.j,A.jq(r,r,r,new A.dj(r,A.qh(B.eN,new A.f9("assets/snapchat.png",r,r)),r,r,r,r,B.ad),40,r,r,40),!1,new A.a2u(s)),r)],p),B.CS),r)],p),B.ho),r)}}
 A.a2q.prototype={
-$0(){this.a.hE("https://www.instagram.com/evacareclinics")},
+$0(){this.a.hE("https://www.instagram.com/evacare.clinic/")},
 $S:0}
 A.a2r.prototype={
-$0(){this.a.hE("https://www.facebook.com/profile.php?id=100091795399209")},
+$0(){this.a.hE("https://www.facebook.com/evacareclinic")},
 $S:0}
 A.a2s.prototype={
 $0(){this.a.hE("https://wa.me/+962797358880")},
